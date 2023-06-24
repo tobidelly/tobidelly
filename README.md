@@ -2,7 +2,7 @@
 - 👀 I’m interested in collaborative projects and learning new things 
 - 🌱 I’m currently learning Software engineering
 - 💞️ I’m looking to collaborate on various tech projects 
-- 📫 How to reach me - tobintino@gmail.com
+- 📫 How to reach me - 
 
 <!---
 tobidelly/tobidelly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
