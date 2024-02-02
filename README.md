@@ -3,9 +3,6 @@
 - 🌱 I’m currently learning Software engineering
 - 💞️ I’m looking to collaborate on various tech projects 
 - 📫 How to reach me - 
-
-              - name: GitHub-Profile-Summary-Cards
-                uses: vn7n24fzkq/github-profile-summary-cards@v0.6.1
             
 <!---
 tobidelly/tobidelly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
