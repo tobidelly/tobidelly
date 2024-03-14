@@ -2,11 +2,11 @@
 
 
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tynist&theme=chartreuse_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tynist&theme=chartreuse_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tynist&theme=chartreuse_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tynist&theme=chartreuse_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
-[![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tynist&theme=chartreuse_dark&utcOffset=8)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tobidelly&theme=chartreuse_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tobidelly&theme=chartreuse_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tobidelly&theme=chartreuse_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tobidelly&theme=chartreuse_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+[![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tobidelly&theme=chartreuse_dark&utcOffset=8)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [More Info](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
